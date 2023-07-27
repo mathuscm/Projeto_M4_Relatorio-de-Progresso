@@ -44,7 +44,7 @@ que permitirá responder algumas questões em torno do processo e da saúde do d
 Depois de examinar os resultados, é visto que irá abrir algumas questões sobre o processo e através delas será gerado os insights para a tomada de decisão.
 
 ------------------------------------------------------------------------------
-#<font color = 'green'> Contato
+# Contato
 
 Se você gostou, muito obrigado! Caso tenha alguma dica de melhoria, pode entrar em contato comigo:
 * Email: cordaromatheus@gmail.com
