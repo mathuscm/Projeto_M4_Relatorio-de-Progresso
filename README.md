@@ -51,7 +51,7 @@ A análise dos dados é de extrema importância e ajuda a embasar o contexto de 
 
 ------------------------------------------------------------------------------
 ## Para visualizar
-Pode ser visualizado pelo (Google Colab)[https://colab.research.google.com/drive/1KVlDXBzgu5gxZdij5F0UxCzIEPdbtlyg?usp=sharing] ou caso opte pelo download do arquivo, é necessário que o software utilizado tenha compatibilidade com o Jupyter e as bibliotecas instaladas. 
+Pode ser visualizado pelo [Google Colab](https://colab.research.google.com/drive/1KVlDXBzgu5gxZdij5F0UxCzIEPdbtlyg?usp=sharing) ou caso opte pelo download do arquivo, é necessário que o software utilizado tenha compatibilidade com o Jupyter e as bibliotecas instaladas. 
 
 ------------------------------------------------------------------------------
 # Contato
